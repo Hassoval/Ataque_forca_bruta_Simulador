@@ -1,0 +1,6 @@
+{
+  "name": "BRUTE FORCE LAB — Simulação Académica",
+  "description": "Laboratório interativo de Segurança da Informação simulando ataques de força bruta contra senhas numéricas de seis dígitos em tempo real com cofre criptográfico 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
